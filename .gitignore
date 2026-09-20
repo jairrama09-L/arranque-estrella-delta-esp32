@@ -1,0 +1,13 @@
+# Credenciales reales del Wi-Fi y del broker MQTT. NUNCA deben subirse.
+credenciales.h
+
+# Artefactos de compilacion de Arduino / PlatformIO
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+
+# Sistema
+.DS_Store
+Thumbs.db
